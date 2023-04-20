@@ -1,2 +1,19 @@
-# -
-简陋版网易云音乐前端项目，主要应用了Vue、Vuex、阿里巴巴矢量库、vant等
+# wangyiyun
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
